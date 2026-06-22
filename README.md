@@ -2,9 +2,11 @@
 
 CS114 Programming II project. Python + CustomTkinter + SQLite.
 
+
 ## Run
 
 ```
+Make sure you are running python 3.10 or anything below 3.11
 pip install -r requirements.txt
 python main.py
 ```
