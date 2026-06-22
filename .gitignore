@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+figures/
+*.pdf
+*.docx
+*.zip
+TaskFlow_Submission/
+capture_screenshots.py
+generate_report.py
+deai_cleanup.py
